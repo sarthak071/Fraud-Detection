@@ -1,0 +1,1 @@
+In this project, an online payment fraud detection model is created with machine learning for this, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. For this, we need a dataset containing information about online payment fraud, so that we can understand what type of transactions lead to fraud.
